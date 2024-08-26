@@ -1,16 +1,6 @@
 # Foreign-Direct-Investment-Analysis
 
-FDI refers to the residential investment made by a company or government of one country in a business or project of another country. It is related to portfolio investment but differs from it in the sense that it is not only the purchase of stocks and bonds. FDI involves a long-term commitment and oftentimes some level of control over the foreign entity.
-
-The reasons FDI is vital for economic growth are:
-
-* **Capital Inflow**
-* **Job Creation**
-* **Technology Transfer**
-* **Increase in Exports**
-* **Tax Revenue**
-
-Overall, FDI can be a potent way of stimulating economic development and increasing the standard of living within a country. However, policies should be instituted whereby FDI is beneficial to both the foreign investor and the host country as well.
+Foreign Direct Investment (FDI) has been a cornerstone of India's economic growth, serving as a crucial source of non-debt financial resources and contributing significantly to the country's development. Defined as an investment involving a long-term relationship and sustained interest by a foreign investor in a domestic enterprise, FDI goes beyond mere capital inflow; it includes the transfer of technology, management expertise, and the creation of employment opportunities. FDI is typically divided into three distinct components: equity capital, reinvested earnings, and intra-company debt transactions, each playing a vital role in fostering economic ties between countries. Since the economic liberalization policies of the early 1990s, India has increasingly become a prime destination for FDI. FDI has significantly transformed India’s economy by enhancing the manufacturing sector with advanced technology and job creation. It has boosted the services sector, especially IT, by driving innovation and establishing India as a global outsourcing hub. Infrastructure investments have improved connectivity and reduced logistics costs. FDI has created millions of jobs, facilitated technology transfer, and stimulated economic growth by injecting capital, boosting exports, and contributing to GDP growth.
 
 
 ### *AIM*
